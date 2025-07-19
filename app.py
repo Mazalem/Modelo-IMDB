@@ -3,7 +3,7 @@ import gdown
 import tensorflow as tf
 import numpy as np
 
-url_id = '10V43Ow_Q7ZTh1jami8_28muu7fsryYi'
+url_id = '10V43Ow_Q7ZTh1jami8_28muu7fsryYi-'
 tflite_path = 'modelo_imdb.tflite'
 
 @st.cache_resource
